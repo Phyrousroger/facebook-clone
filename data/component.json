@@ -1,0 +1,301 @@
+{
+  "LeftSidebar": [
+  {
+    "id": 1,
+    "image": "../Assests/fb-img/friend.png",
+    "desc": "Friends"
+  },
+  {
+    "id": 2,
+    "image": "../Assests/fb-img/save.png",
+    "desc": "saved"
+  },
+  {
+    "id": 3,
+    "image": "../Assests/fb-img/group.png",
+    "desc": "Groups"
+  },
+  {
+    "id": 4,
+    "image": "../Assests/fb-img/watch.png",
+    "desc": "Watch"
+  },
+  {
+    "id": 5,
+    "image": "../Assests/fb-img/memories.png",
+    "desc": "Memories"
+  },
+  {
+    "id": 6,
+    "image": "../Assests/fb-img/pages.png",
+    "desc": "Pages"
+  },
+  {
+    "id": 7,
+    "image": "../Assests/fb-img/events.png",
+    "desc": "Events"
+  }  
+],
+"leftsideList":[
+  {
+    "id":1,
+    "image":"../Assests/fb-img/ad-centre.png",
+    "desc": "Events"
+  },
+  {
+    "id":2,
+    "image":"../Assests/fb-img/ads-manager.png",
+    "desc": "Ads Manager"
+  },
+  {
+    "id":3,
+    "image":"../Assests/fb-img/climate.png",
+    "desc": "Climate Science Center"
+  },
+  {
+    "id":4,
+    "image":"../Assests/fb-img/covid.png",
+    "desc": "Covid 19 information center"
+  },
+  {
+    "id":5,
+    "image":"../Assests/fb-img/crisis.png",
+    "desc": "Crisis Response"
+  },
+  {
+    "id":6,
+    "image":"../Assests/fb-img/emtional.png",
+    "desc": "Emotional Health"
+  },
+  {
+    "id":7,
+    "image":"../Assests/fb-img/fb-pay.png",
+    "desc": "Facebook Pay"
+  },
+  {
+    "id":8,
+    "image":"../Assests/fb-img/favourite.png",
+    "desc": "Favourite"
+  },
+  {
+    "id":9,
+    "image":"../Assests/fb-img/fundariser.png",
+    "desc": "Fundraisers"
+  },
+  {
+    "id":10,
+    "image":"../Assests/fb-img/gaming.png",
+    "desc": "Gaming Video"
+  },
+  {
+    "id":11,
+    "image":"../Assests/fb-img/live-videos.png",
+    "desc": "Live Video"
+  },
+  {
+    "id":12,
+    "image":"../Assests/fb-img/massenger.png",
+    "desc": "Messenger"
+  },
+  {
+    "id":13,
+    "image":"../Assests/fb-img/massenger-kid.png",
+    "desc": "Messenger Kids"
+  },
+  {
+    "id":14,
+    "image":"../Assests/fb-img/most-recent.png",
+    "desc": "Most Recent"
+  },
+  {
+    "id":15,
+    "image":"../Assests/fb-img/play-games.png",
+    "desc": "Play games"
+  },
+  {
+    "id":16,
+    "image":"../Assests/fb-img/recent-ad-activity.png",
+    "desc": "Recent ad activity"
+  }
+],
+"maincomponent":[
+  {
+    "id":1,
+    "icon":"../Assests/fb-img/video.png",
+    "desc":"Live Video"
+    
+   
+  },
+  {
+    "id":2,
+    "icon":"../Assests/fb-img/photo.png",
+    "desc":"Photo/Video",
+    "active":true
+  },
+  {
+    "id":3,
+    "icon":"../Assests/fb-img/smile.png",
+    "desc":"Feeling Activity"
+    
+  }
+
+  
+],
+"posts":[
+  {
+    "id":1,
+    "profile":"../Assests/post-img/avatar1.jpg",
+    "name":"Rosy Linn",
+    "desc":"posted in:",
+    "text":"Just had the best meal of my life!",
+    "date":"4hr",
+    "caption":"Life is too short to not chase your dreams 🌟 #motivationmonday"
+  },
+  {
+    "id":2,
+    "profile":"../Assests/post-img/avatar2.jpg",
+    "name":"John Doe",
+    "desc":"posted in:",
+    "text":"Feeling grateful for my loved ones today.",
+    "date":"20/6/21",
+    "caption":"The best things in life are the people we love, the places we've been, and the memories we've made along the way ❤️ #blessed"
+  },
+  {
+    "id":3,
+    "profile":"../Assests/post-img/avatar3.jpg",
+    "name":"Alian kim",
+    "desc":"posted in:",
+    "text":"I'm on cloud nine after landing my dream job!",
+    "date":"10/3/20",
+    "caption":"I'm not perfect, but I'm always working on becoming a better version of myself 👊 #selfimprovement"
+  },
+  {
+    "id":4,
+    "profile":"../Assests/post-img/avatar4.jpg",
+    "name":"Sulli",
+    "desc":"posted in:",
+    "text":"This sunset is absolutely breathtaking",
+    "date":"8hr",
+    "caption":"The only way to do great work is to love what you do 💼 #passion"
+  },
+  {
+    "id":5,
+    "profile":"../Assests/post-img/avatar5.jpg",
+    "name":"Rachel ",
+    "desc":"posted in:",
+    "text":"I can't stop listening to this new album on repeat.",
+    "date":"2d",
+    "caption":"Be the reason someone smiles today 😊 #spreadlove"
+  },
+  {
+    "id":6,
+    "profile":"../Assests/post-img/avatar6.jpg",
+    "name":"Suzie",
+    "desc":"posted in:",
+    "text":"Just finished a challenging workout - feeling strong!",
+    "date":"12/5/20",
+    "caption":"The greatest glory in living lies not in never falling, but in rising every time we fall 🙌 #perseverance"
+  },
+  {
+    "id":7,
+    "profile":"../Assests/post-img/avatar7.jpg",
+    "name":"Taylor",
+    "desc":"posted in:",
+    "text":"I'm so excited to travel to a new country next month.",
+    "date":"7d",
+    "caption":"When you feel like quitting, remember why you started 💭 #determination"
+  },
+  {
+    "id":8,
+    "profile":"../Assests/post-img/tm1.jpg",
+    "name":"Justin bek",
+    "desc":"posted in:",
+    "text":"I'm loving this book so much, I can't put it down.",
+    "date":"6min",
+    "caption":"Success is not final, failure is not fatal: it is the courage to continue that counts 💫 #keepgoing"
+  },
+  {
+    "id":9,
+    "profile":"../Assests/post-img/tm2.jpg",
+    "name":"Selena",
+    "desc":"posted in:",
+    "text":"I'm feeling inspired to start a new creative project.",
+    "date":"3min",
+    "caption":"The best preparation for tomorrow is doing your best today 🌅 #motivation"
+  },
+  {
+    "id":10,
+    "profile":"../Assests/post-img/tm3.jpg",
+    "name":"Gunnivera",
+    "desc":"posted in:",
+    "text":"I'm so proud of my friend for achieving their goals.",
+    "date":"12min",
+    "caption":"Your only limit is the amount of energy you're willing to invest 🔋 #mindset"
+  },
+  {
+    "id":11,
+    "profile":"../Assests/post-img/tm4.jpg",
+    "name":"Jackie",
+    "desc":"posted in:",
+    "text":"Rose is so beautiful",
+    "date":"5d",
+    "caption":"Small progress is still progress 🌱 #growthmindset"
+  },
+  {
+    "id":12,
+    "profile":"../Assests/post-img/tm5.jpg",
+    "name":"Jennie",
+    "desc":"posted in:",
+    "text":"Roses bring so much joy to my life",
+    "date":"20/4/22",
+    "caption":"In a world where you can be anything, be kind 💕 #bekind"
+  },
+  {
+    "id":13,
+    "profile":"../Assests/post-img/tm6.jpg",
+    "name":"PixelPenguin",
+    "desc":"posted in:",
+    "text":"I started a new hobby today and I'm already hooked!",
+    "date":"3d",
+    "caption":"Be yourself, everyone else is already taken 👤 #authenticity"
+  },
+  {
+    "id":14,
+    "profile":"../Assests/post-img/tm7.jpg",
+    "name":"StarrySkyline",
+    "desc":"posted in:",
+    "text":"I saw an incredible sunset today that reminded me how beautiful life can be!",
+    "date":"4hr",
+    "caption":"Don't wait for opportunities, create them 💡 #entrepreneurmindset"
+  },
+  {
+    "id":15,
+    "profile":"../Assests/post-img/tm8.jpg",
+    "name":"ThunderTiger",
+    "desc":"posted in:",
+    "text":"I volunteered at a local charity today and it was such a rewarding experience!",
+    "date":"12hr",
+    "caption":"The only time you should ever look back is to see how far you've come 🚶‍♀️ #reflection"
+  },
+  {
+    "id":16,
+    "profile":"../Assests/post-img/tm9.jpg",
+    "name":"NeonNarwhal",
+    "desc":"posted in:",
+    "text":"I learned a new skill today and I'm so proud of myself!",
+    "date":"12/3/20",
+    "caption":"Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle 💪 #believeinyourself"
+  },
+  {
+    "id":17,
+    "profile":"../Assests/post-img/tm10.jpg",
+    "name":"FuzzyFalcon",
+    "desc":"posted in:",
+    "text":"ust got back from an amazing concert and I'm still buzzing with excitement",
+    "date":"3d",
+    "caption":"The best way to predict your future is to create it 🌟 #manifestation"
+  }
+]
+}
+  
+
