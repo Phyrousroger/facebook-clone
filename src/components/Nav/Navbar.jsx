@@ -10,10 +10,10 @@ import Menu from "./Menu";
 
 const Navbar = () => {
   return (
-    <div className=" grid grid-flow-col md:grid-cols-4 grid-cols-2 gap-3 bg-[#242526] mb-2 md:p-0 p-2 sticky top-0 z-50">
+    <header className=" bg-[#242526] grid grid-flow-col md:grid-cols-4 grid-cols-2 gap-3  mb-2 md:p-0 p-2 sticky top-0 z-50">
       <Logo />
 
-      <div className=" md:col-span-2 col-auto md:flex hidden items-center gap-2 h-full w-full justify-center">
+      <nav className=" md:col-span-2 col-auto md:flex hidden items-center gap-2 h-full w-full justify-center">
         <NavLink to="/" className="text-white ">
           <div className="mb-1 duration-150 bg-[#242526] hover:bg-[#909396] hover:rounded lg:w-32 w-24 h-full  p-3">
             <AiFillHome className=" text-3xl  mx-auto " />
@@ -38,10 +38,10 @@ const Navbar = () => {
             />
           </div>
         </NavLink>
-      </div>
+      </nav>
 
       <Menu />
-    </div>
+    </header>
   );
 };
 

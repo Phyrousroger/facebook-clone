@@ -21,7 +21,7 @@ const Menu = () => {
   };
 
   return (
-    <div className=" flex relative items-center justify-end md:justify-center gap-3 h-full">
+    <nav className=" flex relative items-center justify-end md:justify-center gap-3 h-full">
       {data?.map((navmenu) => (
         <div key={navmenu.id}>
           {navmenu.type == "icon" ? (
@@ -46,7 +46,7 @@ const Menu = () => {
           </div>
         </div>
       ))}
-    </div>
+    </nav>
   );
 };
 

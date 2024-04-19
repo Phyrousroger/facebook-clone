@@ -8,7 +8,7 @@ const Account = () => {
   const data = category;
 
   return (
-    <div className=" flex gap-2 left-scroll ">
+    <main className=" flex gap-2 left-scroll ">
       <div className=" h-[500px]">
         <div className="rounded shadow-2xl p-3">
           <div className=" flex gap-2 items-center justify-start hover:bg-[#4E4F50] rounded-md duration-150 p-3 ">
@@ -49,7 +49,7 @@ const Account = () => {
         </ul>
         <Footer />
       </div>
-    </div>
+    </main>
   );
 };
 

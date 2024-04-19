@@ -5,7 +5,7 @@ import {AiOutlineSearch} from "react-icons/ai";
 
 const Logo = () => {
     return (
-        <div className="flex items-center">
+        <nav className="flex items-center">
             <Link to="/">
                 <img src={facebook} alt="" className="w-10 m-3" />
             </Link>
@@ -17,7 +17,7 @@ const Logo = () => {
                     placeholder="Search Facebook"
                 />
             </div>
-        </div>
+        </nav>
     );
 };
 

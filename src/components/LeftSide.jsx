@@ -14,18 +14,18 @@ const LeftSide = () => {
     const { data } = await axios.get("http://localhost:3000/leftsideList");
     setShow(!show);
     setleftlist(data);
-    // console.log(data);
   };
 
   // const {id,image,desc}=data
   useEffect(() => {
     setLoading(true);
     getList();
-    // setLoading(true);
   }, []);
   return (
-    <ul className=" left-scroll  fixed h-screen
-    ">
+    <ul
+      className=" left-scroll  fixed h-screen
+    "
+    >
       <li className=" flex items-center justify-start hover:bg-[#4E4F50] duration-150 p-2 rounded">
         <div className=" w-12">
           <img src={profile} alt="" className=" w-7 rounded-full mx-auto" />
@@ -37,7 +37,6 @@ const LeftSide = () => {
           key={left.id}
           className=" flex items-center duration-150 hover:bg-[#4E4F50] p-2 rounded cursor-pointer select-none"
         >
-          {/* <img src={} alt="" className=" w-7 rounded-full mr-2" /> */}
           <div className=" w-12">
             <img
               src={left.image}
@@ -68,14 +67,12 @@ const LeftSide = () => {
         onClick={getList}
         className=" flex items-center duration-150 hover:bg-[#4E4F50] p-2 rounded cursor-pointer select-none"
       >
-       
-          <div className="p-1 mx-2 bg-[#3A3B3C] rounded-full">
-            {show ? (
-              <FiChevronUp className=" text-white" />
-            ) : (
-              <FiChevronDown className=" text-white" />
-            )}
-          
+        <div className="p-1 mx-2 bg-[#3A3B3C] rounded-full">
+          {show ? (
+            <FiChevronUp className=" text-white" />
+          ) : (
+            <FiChevronDown className=" text-white" />
+          )}
         </div>
         {isloading ? (
           <p className=" text-white font-normal">
@@ -106,7 +103,6 @@ const LeftSide = () => {
         />
         <p className=" text-white font-bold">Myanmar Ai Community</p>
       </li>
-      
     </ul>
   );
 };
