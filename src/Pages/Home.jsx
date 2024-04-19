@@ -1,12 +1,14 @@
-import React, { useEffect, useState } from "react";
-import LeftSide from "../Component/LeftSide";
+import LeftSide from "../components/LeftSide";
 import profile from "../../Assests/fb-img/profile-img.jpg";
 import { maincomponent } from "../../data/constant";
-import Navbar from "../Component/Nav/Navbar";
-import RightSide from "../Component/RightSide";
-import Posts from "../Component/MainComponent/Posts";
-import Myday from "../Component/MainComponent/Myday";
-import MainComponent from "../Component/MainComponent/MainComponent";
+
+import Navbar from "../components/Nav/Navbar";
+import RightSide from "../components/RightSide";
+import Posts from "../components/MainComponent/Posts";
+import Myday from "../components/MainComponent/Myday";
+
+// import MainComponent from "../co/MainComponent/MainComponent";
+import MainComponent from "../components/MainComponent/MainComponent";
 import { BiDotsHorizontalRounded } from "react-icons/bi";
 import { RxCross2 } from "react-icons/rx";
 

@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import { LeftSidebar } from "../../data/component.json";
 import profile from "../../Assests/fb-img/profile-img.jpg";
 import { FiChevronDown, FiChevronUp } from "react-icons/fi";
-import Footer from "./Footer";
+// import Footer from "./Footer";
 
 const LeftSide = () => {
   const [show, setShow] = useState(true);

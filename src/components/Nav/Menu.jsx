@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import profile from "../../../Assests/fb-img/profile-img.jpg";
 import { NavMenu } from "../../../data/constant";
 

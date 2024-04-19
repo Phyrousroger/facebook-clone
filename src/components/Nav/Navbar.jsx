@@ -1,4 +1,3 @@
-import React from "react";
 import { AiFillHome } from "react-icons/ai";
 import { MdOutlineOndemandVideo } from "react-icons/md";
 import { HiUserGroup } from "react-icons/hi";
