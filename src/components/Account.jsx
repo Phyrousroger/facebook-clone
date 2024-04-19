@@ -1,5 +1,4 @@
-import axios from "axios";
-import React, { useEffect, useState } from "react";
+import React from "react";
 import profile from "../../Assests/fb-img/profile-img.jpg";
 
 import Footer from "./Footer";
