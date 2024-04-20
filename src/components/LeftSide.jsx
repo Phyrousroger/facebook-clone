@@ -1,6 +1,6 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
-import { LeftSidebar } from "../../data/component";
+import { LeftSidebar } from "../../data/component.json";
 import profile from "../../Assests/fb-img/profile-img.jpg";
 import { FiChevronDown, FiChevronUp } from "react-icons/fi";
 // import Footer from "./Footer";
