@@ -1,4 +1,4 @@
-import React from "react";
+// import Navbar from '../comp/Nav/Navbar'
 import Navbar from "../components/Nav/Navbar";
 
 const Game = () => {

@@ -1,12 +1,12 @@
-import React from 'react'
-import Navbar from '../components/Nav/Navbar'
+// import Navbar from "../Component/Nav/Navbar";
+import Navbar from "../components/Nav/Navbar";
 
 const Group = () => {
   return (
-    <div className='bg-[#18191A] h-screen'>
-      <Navbar/>
+    <div className="bg-[#18191A] h-screen">
+      <Navbar />
     </div>
-  )
-}
+  );
+};
 
-export default Group
+export default Group;

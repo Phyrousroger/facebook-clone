@@ -1,5 +1,6 @@
 import React from "react";
 
+
 const MainComponent = ({ main }) => {
   const { id, icon, desc, file } = main;
   return (
