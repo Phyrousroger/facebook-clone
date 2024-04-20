@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from '../Component/Nav/Navbar'
+import Navbar from '../components/Nav/Navbar'
 
 const Group = () => {
   return (

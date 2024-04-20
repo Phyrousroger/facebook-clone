@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { LeftSidebar } from "../../data/component.json";
+import { LeftSidebar } from "../../data/component";
 import axios from "axios";
 import { AiOutlineSearch } from "react-icons/ai";
 import { menulist } from "../../data/constant";

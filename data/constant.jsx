@@ -15,10 +15,10 @@ import {
 } from "react-icons/bs";
 import { BiEdit, BiVideoPlus } from "react-icons/bi";
 
-import Menu from "../src/Component/Menu";
-import Messenegr from "../src/Component/Messenegr";
-import Noti from "../src/Component/Noti";
-import Account from "../src/Component/Account";
+import Menu from "../src/components/Menu";
+import Messenegr from "../src/components/Messenegr";
+import Noti from "../src/components/Noti";
+import Account from "../src/components/Account";
 import { HiSpeakerphone } from "react-icons/hi";
 export const category = [
   {

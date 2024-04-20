@@ -5,7 +5,6 @@ const MainComponent = ({ main }) => {
   return (
     <>
       <form
-        // onSubmit={handleFormSubmit}
 
         className="duration-200 hover:bg-[#3A3B3C] cursor-pointer p-2 hover:rounded-lg mt-2 w-1/3 flex gap-2 justify-center items-center relative"
       >

@@ -1,7 +1,7 @@
 import React from "react";
 import { BiVideoPlus, BiSearch, BiDotsHorizontalRounded } from "react-icons/bi";
 import profile from "../../Assests/fb-img/profile-img.jpg";
-import { posts } from "../../data/component.json";
+import { posts } from "../../data/component";
 
 const RightSide = () => {
   return (
