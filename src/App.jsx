@@ -7,12 +7,6 @@ const Register = lazy(() => import("./Pages/Register"));
 const Video = lazy(() => import("./Pages/Video"));
 const Group = lazy(() => import("./Pages/Group"));
 const Game = lazy(() => import("./Pages/Game"));
-// import Home from "./Pages/Home";
-// import Login from "./Pages/Login";
-// import Register from "./Pages/Register";
-// import Video from "./Pages/Video";
-// import Group from "./Pages/Group";
-// import Game from "./Pages/Game";
 
 const App = () => {
   return (
